@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+#Lab 1
+*.DS_Store
+*hello_world
