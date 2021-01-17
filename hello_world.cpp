@@ -14,5 +14,5 @@ int main(int argc, const char * argv[]) {
         cout << "T-minus: " << flush;
         cout << i << "!" << endl;
     }
-    cout << "Hello this beautiful world!" << endl;
+    cout << "Fight on!" << endl;
 }
